@@ -1,5 +1,6 @@
 defmodule MyEnum do
-  use Clone, Enum
+  import Clone
+  clone Enum
 
   def last([]), do: nil
   def last([element]), do: element
