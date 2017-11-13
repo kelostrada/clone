@@ -2,6 +2,10 @@
 
 [![Build Status](https://travis-ci.org/kelostrada/clone.svg?branch=master)](https://travis-ci.org/kelostrada/clone)
 
+Library to clone/rewrite functions in modules if you need to extend some external library
+
+Documentation: https://hexdocs.pm/clone/
+
 ## Installation
 
 The package can be installed by adding `clone` to your list of dependencies in `mix.exs`:
